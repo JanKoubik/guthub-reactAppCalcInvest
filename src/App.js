@@ -13,7 +13,7 @@ function App() {
 
         <Switch>
 
-          <Route exact path={"/GitHub-investCalculator/"}>
+          <Route exact path={"/guthub-reactAppCalcInvest"}>
             <Calculator />
           </Route>
 
