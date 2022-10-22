@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//JanKoubik.github.io/guthub-reactAppCalcInvest/static/css/main.726509f5.css",
+    "main.js": "/https//JanKoubik.github.io/guthub-reactAppCalcInvest/static/js/main.5e0f0d6b.js",
+    "index.html": "/https//JanKoubik.github.io/guthub-reactAppCalcInvest/index.html",
+    "main.726509f5.css.map": "/https//JanKoubik.github.io/guthub-reactAppCalcInvest/static/css/main.726509f5.css.map",
+    "main.5e0f0d6b.js.map": "/https//JanKoubik.github.io/guthub-reactAppCalcInvest/static/js/main.5e0f0d6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.726509f5.css",
+    "static/js/main.5e0f0d6b.js"
+  ]
+}
