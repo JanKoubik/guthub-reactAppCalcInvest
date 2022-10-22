@@ -13,7 +13,7 @@ function App() {
 
         <Switch>
 
-          <Route exact path={"https://jankoubik.github.io/GitHub-investCalculator/"}>
+          <Route exact path={"/GitHub-investCalculator/"}>
             <Calculator />
           </Route>
 
