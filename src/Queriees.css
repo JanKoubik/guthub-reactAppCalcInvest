@@ -1,0 +1,29 @@
+@media only screen and (max-width: 1000px) {
+ 
+    .calculator {
+        width: 605px;
+    }
+
+    .calculator-graph {
+        margin: 400px auto;
+        display: block;
+        float: none;
+    }
+
+}
+
+@media only screen and (max-width: 700px) {
+
+    .calculator {
+        width: 305px;
+    }
+
+    .calculator-graph {
+        margin: 0px auto;
+        display: block;
+        float: left;
+    }
+
+}
+
+
