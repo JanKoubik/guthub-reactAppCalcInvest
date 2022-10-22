@@ -1,29 +1,16 @@
 import './App.css';
 import Calculator from './Calculator';
 import Navbar from './Navbar';
-import { BrowserRouter as Router, Route, Switch  } from 'react-router-dom'; 
+
 
 function App() {
   return (
     <div className="App">
 
-      <Router>
-
       <Navbar />
 
-        <Switch>
+      <Calculator />
 
-          <Route exact path={"/guthub-reactAppCalcInvest"}>
-            <Calculator />
-          </Route>
-
-          <Route exact path={"/"}>
-            <Calculator />
-          </Route>
-
-        </Switch>
-
-      </Router>
     </div>
   );
 }
